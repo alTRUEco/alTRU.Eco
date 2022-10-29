@@ -3,8 +3,14 @@ email: "altruist@valto.ro"
 description: >- # this means to ignore newlines until "baseurl:"
   💝 The sustainability-aware altruistic economy uses open-source technology with data privacy.
 subtext: "Updates, tips & opinions from the maintainers of alTRUEco."
-subtitle: _Bottom-up_ economy to solve _Scarcity_ | _F/LOSS_ **Toolkit** with **data privacy**
-author: eapo
+subtitle: "_Bottom-up_ economy to solve _Scarcity_ | _F/LOSS_ **Toolkit** with **data privacy**"
+author: "eapo"
+board: "https://github.com/orgs/alTRUEco/projects/1/"
+org_url: "https://github.com/alTRUEco"
+repo: "https://github.com/alTRUEco/alTRUE.meteor"
+app_url: "https://altru.eu.meteorapp.com"
+hash: "#altrueco"
+wiki: "https://en.wikipedia.org/wiki/"
 
 plugins:
   - jekyll-feed
